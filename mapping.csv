@@ -1,0 +1,8 @@
+"SOC 2 Category,SOC 2 Criteria,PCI DSS 4.0.1 Requirement,NIST 800-53 Control,Notes"
+"Security,CC1.1,5.2.1,AC-2,Account management"
+"Security,CC5.1,8.3.6,SC-12,Data encryption at rest"
+"Security,CC6.1,10.4.1,AU-6,Log review and audit trails"
+"Availability,CC7.1,11.5.1,IR-4,Incident handling"
+"Confidentiality,CC8.1,3.5.1,SC-12,Encryption of stored data"
+"Processing Integrity,PI1.1,6.2.2,CM-2,Secure configuration management"
+"Privacy,P1.1,3.2.1,AC-8,Data minimization and protection"
